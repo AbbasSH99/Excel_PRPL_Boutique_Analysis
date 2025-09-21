@@ -82,8 +82,8 @@ Several charts were created to support the findings:
 * **Goal vs. Actual Price Scatter Plot:** Provides a visual demonstration of how actual prices fall short of targeted goal prices.
 
 ![Goal vs Actual Prices](screenshots/Goal_VS_Actual_Prices.PNG)
-<span style="color: purple;">This is light purple</span>  
-<span style="color: darkviolet;">This is dark purple</span>
+
+![pale purple text](./pale-purple-text.svg)
 
 ---
 
