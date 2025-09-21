@@ -77,7 +77,7 @@ Formula:
 
 Both use the **Actual Unit Price (Average)** in their calculations.
 
-> **Note:** *(Insert image: cleaned Excel table with calculated columns)*
+![Cleaned Table](../screenshots/Cleaned_Table.PNG)
 
 ---
 
@@ -126,7 +126,7 @@ Actual Margin / (1 – Actual Margin)
 
 Represents the revenue percentage added above cost.
 
-> **Note:** *(Insert image: dashboard of margin and ratio indicators)*
+![Indicators](../screenshots/Indicators_Margin.PNG)
 
 ---
 
