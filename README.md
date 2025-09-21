@@ -83,9 +83,8 @@ Several charts were created to support the findings:
 
 ![Goal vs Actual Prices](screenshots/Goal_VS_Actual_Prices.PNG)
 
-**Light Purple:** Goal Prices
+**Light Purple:** Goal Prices / 
 **Dark Purple:** Actual Prices
-
 
 ---
 
