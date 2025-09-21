@@ -32,7 +32,7 @@ Stakeholders set a goal of achieving a **50% profit margin (0.5)**, effectively 
 * The actual prices set by PRPL were then compared against these calculated goal prices.
 * To simulate real sales behavior, two price levels were considered: the main (full) price and the minimum discounted price. Based on stakeholder input, it was assumed that **80% of sales occur at the discounted price** and **20% at the main price**, producing an average selling price for each article.
 
-> **Note:** *(Insert image: table showing actual vs goal prices)*
+![Paper Invoices](screenshots/Paper_Invoices.jpg)
 
 ---
 
