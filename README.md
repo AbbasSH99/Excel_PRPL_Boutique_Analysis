@@ -6,7 +6,7 @@
 
 This analysis was conducted for **PRPL**, a boutique retail store. The main objective was to determine how much profit the store generated from its latest collection of goods and to evaluate whether the current pricing strategy aligns with the business’s profitability goals. In addition, the analysis provides recommendations for improving margins and overall financial performance.
 
-> **Note:** *(Insert cover image or store-related graphic here)*
+![Logo](screenshots/LOGO.jpg) 
 
 ---
 
