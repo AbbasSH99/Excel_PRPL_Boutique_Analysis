@@ -109,4 +109,4 @@ This analysis was prepared as part of a real-world project/job. However, the **d
 
 This analysis revealed that PRPL’s current pricing strategy is unsustainable, with profits far below industry standards. Adopting a more structured pricing approach aligned with goal margins, supported by digital data management, will significantly improve profitability and strategic decision-making for the boutique.
 
-[Check out the Cleaning Process here](docs/Data_Cleaning.md)
+[Check Out the Cleaning Process Here](docs/Data_Cleaning.md)
