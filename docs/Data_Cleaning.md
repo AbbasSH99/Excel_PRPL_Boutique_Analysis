@@ -6,7 +6,7 @@
 
 After inserting the main data of products, their costs, and quantities, the next step was to clean and structure the dataset so that it could support profitability and pricing analysis. This document explains the transformations, calculated fields, and indicators created during the cleaning process.
 
-![Data_Model](./screenshots/Raw_Table.PNG)
+![Data_Model](../screenshots/Raw_Table.PNG)
 
 ---
 
