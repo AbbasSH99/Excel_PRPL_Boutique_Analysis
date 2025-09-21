@@ -53,13 +53,15 @@ Stakeholders set a goal of achieving a **50% profit margin (0.5)**, effectively 
   * The largest invoice came from **NOVA (\$7,344)**, followed by **TAVIO (\$5,714)** and **LUNARE (\$5,118)**.
   * These brands represent the bulk of inventory spending and therefore have a significant influence on overall performance.
 
-* **Item-Level Insights:**
+![Amount Spent by Brand](screenshots/Total_Spent_by_Brand_Barchart.PNG)
+
+* **Item-Level Insights (total series):**
 
   * Most Profitable Items (at current pricing):
 
-    * TAVIO line pants series → **\$209 profit** (total series)
+    * TAVIO line pants series → **\$209 profit**
     * ASTRA silk blouse → **\$196 profit**
-  * Least Profitable Items:
+  * Least Profitable Items (at current pricing):
 
     * MIRELLA polo shirt → **\$4 profit**
     * ASTRA formal blazer → **\$5 profit**
@@ -78,7 +80,8 @@ Several charts were created to support the findings:
 * **Items with Most Total Profit (Column Chart):** Highlights which items contribute meaningfully versus which are underperforming.
 * **Goal vs. Actual Price Scatter Plot:** Provides a visual demonstration of how actual prices fall short of targeted goal prices.
 
-> **Note:** *(Insert scatter plot visualization here)*
+![Items with Most Total Profit](screenshots/Items_with_Most_Total_Profit.PNG)
+![Items with Most Least Profit](screenshots/Items_with_Least_Total_Profit.PNG)
 
 ---
 
