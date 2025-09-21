@@ -83,7 +83,9 @@ Several charts were created to support the findings:
 
 ![Goal vs Actual Prices](screenshots/Goal_VS_Actual_Prices.PNG)
 
-![pale purple text](./pale-purple-text.svg)
+**Light Purple:** Goal Prices
+**Dark Purple:** Actual Prices
+
 
 ---
 
@@ -94,7 +96,7 @@ Several charts were created to support the findings:
 3. **Product Review:** Articles with negligible profits should be reconsidered for future collections unless their strategic value (e.g., drawing customers) justifies keeping them.
 4. **Ongoing Monitoring:** Dynamic tools created in Excel (e.g., margin achievement cells) allow the business to monitor and adjust pricing more effectively in real-time.
 
-![Goal vs Actual Prices](screenshots/KPIs.PNG)
+![KPIs](screenshots/KPIs.PNG)
 
 ---
 
