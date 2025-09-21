@@ -68,7 +68,8 @@ Stakeholders set a goal of achieving a **50% profit margin (0.5)**, effectively 
 
 These negligible profits on certain articles highlight weaknesses in the current pricing model and inventory decision-making.
 
-> **Note:** *(Insert image: bar chart of total spent by brand; column chart of item profits)*
+![Items with Most Total Profit](screenshots/Items_with_Most_Total_Profit.PNG)
+![Items with Most Least Profit](screenshots/Items_with_Least_Total_Profit.PNG)
 
 ---
 
@@ -80,8 +81,7 @@ Several charts were created to support the findings:
 * **Items with Most Total Profit (Column Chart):** Highlights which items contribute meaningfully versus which are underperforming.
 * **Goal vs. Actual Price Scatter Plot:** Provides a visual demonstration of how actual prices fall short of targeted goal prices.
 
-![Items with Most Total Profit](screenshots/Items_with_Most_Total_Profit.PNG)
-![Items with Most Least Profit](screenshots/Items_with_Least_Total_Profit.PNG)
+![Goal vs Actual Prices](screenshots/Goal_VS_Actual_Prices.PNG)
 
 ---
 
