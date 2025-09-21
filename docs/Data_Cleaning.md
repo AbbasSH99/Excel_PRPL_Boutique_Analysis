@@ -16,7 +16,7 @@ After inserting the main data of products, their costs, and quantities, the next
 * This value was placed in a dedicated cell, allowing for dynamic adjustments in case the target changes.
 * A supporting table was created to calculate **trip expenses** (e.g., travel, shipping, hotel) and to sum up the **total quantity of goods**.
 
-> **Note:** *(Insert image: small table of expenses and quantities)*
+![Expenses & Quantity](../screenshots/Expenses_and_Quantity.PNG)
 
 ---
 
